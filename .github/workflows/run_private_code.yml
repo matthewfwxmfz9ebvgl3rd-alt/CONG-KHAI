@@ -26,8 +26,8 @@ jobs:
 
       # chon thumb tieude bat dau
       SEQ_BASE_RUN: "489"
-      TITLE_START: "178"
-      THUMB_START: "50"
+      TITLE_START: "208"
+      THUMB_START: "16"
 
       # công tắt chọn poll hoặc cloudflare
       IMG_PROVIDER: cloudflare
